@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+tensorflow
+pillow (PIL)
+skitlearn (sklearn)
+
+
+make sure above mentioned dependencies are installed on your environment before running code on jupyter or vs-code!!!
+
+i have also added a pre-trained model file named "plant_disease_fnn.keras" if you don't want to retrain the whole dataset again and I've mentioned in the code as well. Can add more metrics to check if you want.
+
+Dataset link to download if you want to check the whole code: https://www.kaggle.com/datasets/mdhemel/plant-disease-detection/data
